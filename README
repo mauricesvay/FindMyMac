@@ -1,6 +1,8 @@
 FindMyMac
 =========
 
+Usage: php FindMyMac.php email@example.com
+
 FindMyMac is a PHP script that reports your Mac status, including:
 *   latitude, longitude, country, city
 *   address (requires Wi-Fi to be turned on)
