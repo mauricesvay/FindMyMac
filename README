@@ -1,0 +1,25 @@
+FindMyMac
+=========
+
+FindMyMac is a PHP script that reports your Mac status, including:
+*   latitude, longitude, country, city
+*   address (requires Wi-Fi to be turned on)
+*   public IP address (could help identify the ISP)
+*   date of report
+*   screenshot (see what the user is doing)
+*   photo (see who is using the computer)
+
+Reports are sent by e-mail.
+
+Requirements
+------------
+MacOSX 10.6 (untested with other versions)
+
+Included 3rd-party software
+---------------------------
+ImageSnap is a public domain command-line tool.
+See: http://www.iharder.net/current/macosx/imagesnap/
+
+License
+-------
+FindMyMac is free software and is released under BSD license.
